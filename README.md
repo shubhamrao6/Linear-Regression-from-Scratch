@@ -11,3 +11,7 @@ It this notebook, you will understand the basics of **Linear Regression** and un
 
 ![](Screenshot_1.jpg)
 
+3) Curve Fitting
+
+![](Screenshot_2.jpg)
+
