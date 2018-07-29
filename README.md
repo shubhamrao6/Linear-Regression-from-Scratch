@@ -6,3 +6,8 @@ It this notebook, you will understand the basics of **Linear Regression** and un
 
 
 ![](Screenshot_4.jpg)
+
+2) Reduction of **Cost**
+
+![](Screenshot_1.jpg)
+
